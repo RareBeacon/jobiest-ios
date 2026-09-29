@@ -1,5 +1,10 @@
 # jobiest-ios
 
+Official Jobiest native iOS application (SwiftUI).
+
+**Product:** [jobiest.com](https://jobiest.com) - Your AI career agent. Only sends applications you approve.
+**Free tools:** [ATS resume scanner](https://jobiest.com/free-ats-resume-scanner), [all 10 free career tools](https://jobiest.com/tools)
+**How it works:** [jobiest.com/how-it-works](https://jobiest.com/how-it-works)
 Official Jobiest native iOS application (SwiftUI). Starter kit prepared 2026-09-28.
 
 ## What this is
